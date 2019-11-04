@@ -1,0 +1,91 @@
+MSP432 GCC Support Package v1.2.0.0
+===================================
+03/13/2017
+
+    !Important Notice!:
+    MSP432 GCC Support package is complete debugger and open source C/C++ compiler toolchain for building and debugging embedded applications based on MSP432 microcontrollers. 
+    MSP432 GCC Support package supports Windows, Linux (32-bit and 64-bit) or Mac OS X environments.
+    The ARM GCC Compiler is owned and maintained by ARM. Therefore, the ARM GCC compiler is not provided within the MSP432 GCC Support Package. 
+    While the TI package includes the examples and other collateral files, users can download the GCC and GDB binaries from the following location: https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
+    This package has been tested with:
+    - GCC ARM Embedded Compiler v4_9-2015q3-20150921
+    - GCC ARM Embedded Compiler v5_4-2016q2-20160622
+    - GCC ARM Embedded Compiler v6_2-2016q4-20161216
+    
+    Components:
+    - MSP432 header and support files (v3.0.0):
+        = CMSIS Core v5.0
+        = Header files
+        = Startup files
+        = Linker files
+        = MSP432 FlashDLL
+    - XDS Emulation Software Package including GDB agent (v6.0.579.0):
+        = Support of automated firmware update for XDS debug probes
+    - Five examples (based on MSPWare v3.50.00.02)
+
+    Bug fixes:
+    - Update example codes
+    - Fixing issues with GCC startup file
+    
+    Known limitations:
+    - For flash code, only hardware breakpoints are supported (use 'hbreak' command to set breakpoint)
+
+MSP432 GCC Support Package v1.1.0.1
+===================================
+10/28/2016
+
+    !Important Notice!:
+    MSP432 GCC Support package is complete debugger and open source C/C++ compiler toolchains for building and debugging embedded applications based on MSP432 microcontrollers. 
+    MSP432 GCC Support package supports Windows, Linux (32-bit and 64-bit) or Mac OS X environments.
+    The ARM GCC Compiler is owned and maintained by ARM. Therefore, the ARM GCC compiler is not provided within the MSP432 GCC Support Package. 
+    While the TI package includes the examples and other collateral files, users can download the GCC and GDB binaries from the following location: https://launchpad.net/gcc-arm-embedded.
+    This package has been tested with GCC ARM Embedded Compiler v5_4-2016q2-20160622.
+    
+    Components:
+    - MSP432 header and support files (v2.2.1):
+        = CMSIS Core v4.5
+        = Header files
+        = Startup files
+        = Linker files
+        = MSP432 FlashDLL
+    - XDS Emulation Software Package including GDB agent (v6.0.407.3):
+        = Support of XDS110 and XDS200 debug probes
+        = Support Linux 64-bit
+    - Five examples (based on MSPWare v3.30.00.18)
+
+    Bug fixes:
+    - HW breakpoints can be hit (hbreak command)
+    - Implementation of single file weak interrupt solution
+    
+    Known limitations:
+    - GDB agent does not perform a firmware update automatically (navigate to emulation/common/uscif/XDS* to manually update the debug probe)
+    - For flash code, only hardware breakpoints are supported (use 'hbreak' command to set breakpoint)
+
+
+MSP432 GCC Support Package v1.0.0.1
+===================================
+    !Important Notice!:
+    MSP432 GCC Support package is complete debugger and open source C/C++ compiler toolchains for building and debugging embedded applications based on MSP432 microcontrollers. 
+    MSP432 GCC Support package supports Windows, Linux or Mac OS X environments.
+    The ARM GCC Compiler is owned and maintained by ARM. Therefore, the ARM GCC compiler is not provided within the MSP432 GCC Support Package. 
+    While the TI package includes the examples and other collateral files, users can download the GCC and GDB binaries from the following location: https://launchpad.net/gcc-arm-embedded.
+    This package has been tested with GCC ARM Embedded Compiler v5_3-2016q1-20160330.
+
+    Components:
+    - MSP432 header and support files (v2.2.0):
+        = CMSIS Core v4.5
+        = Header files
+        = Startup files
+        = Linker files
+        = MSP432 FlashDLL
+    - XDS Emulation Software Package including GDB agent (v6.0.228.0): supports only XDS110 probes (http://processors.wiki.ti.com/index.php/XDS_Emulation_Software_Package)
+    - Five examples (based on MSPWare v3.30.00.18)
+
+    Device support:
+    - MSP432P401R
+    - MSP432P401M
+
+    Known Issues:
+    - None
+
+    The MSP432 GCC Support Package v1.0.0.1 is the first stable version for MSP432P4xx product family.
