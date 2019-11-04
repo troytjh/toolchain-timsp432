@@ -2,7 +2,7 @@
     "name": "toolchain-timsp432",
     "description": "msp-gcc",
     "system": [
-        "darwin_x86_64"
+        "linux_x86_64"
     ],
     "url": "https://github.com/troytjh/toolchain-timps432/archive/1.0.0.tar.gz",
     "version": "1.0.0"
