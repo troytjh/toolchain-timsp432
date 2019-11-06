@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Export-Package: xdc.runtime,xdc.rov,xdc.rta
+Bundle-Vendor: Texas Instruments
+Eclipse-LazyStart: true
+Bundle-ClassPath: packages/xdc/runtime/java/package.jar,packages/xdc/r
+ ov/java/package.jar,packages/xdc/rta/java/package.jar,packages/xdc/se
+ rvices/global/java/package.jar
+Bundle-Version: 3.60.0.24
+Eclipse-BuddyPolicy: dependent
+Bundle-Name: XDCtools RTA
+Bundle-ManifestVersion: 2
+Created-By: 1.7.0_60 (Oracle Corporation)
+Bundle-SymbolicName: org.eclipse.rtsc.xdctools.rta;singleton:=true
+
+Name: packages/xdc/rov/java/package.jar
+SHA-256-Digest: BLSTfe6wLbnynUoDweKgOe9Fuhn7OnKah30ZzouzHs8=
+
+Name: packages/xdc/runtime/java/package.jar
+SHA-256-Digest: jP0U8l5Iu2D05U9qzZZlYK43caw1fdsL8BRzGP+Vww4=
+
+Name: packages/xdc/rta/java/package.jar
+SHA-256-Digest: C0Ac1uvJeL/sIe9sR4HYqV8ZQwpxQIf3sUfnMf6/ng0=
+
+Name: packages/xdc/services/global/java/package.jar
+SHA-256-Digest: U0SPfyN/a0Jkk7TSiWT+kt4+31Pd7+eez/4tiNHHEjs=
+

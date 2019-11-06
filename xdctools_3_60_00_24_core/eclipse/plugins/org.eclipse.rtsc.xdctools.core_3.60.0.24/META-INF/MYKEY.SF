@@ -1,0 +1,33 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: wmT8ONZIx5G8pZCmOnK4/0MXwUxas
+ eseWs/TD3ofHxc=
+SHA-256-Digest-Manifest: UpMPmmRYPP11bzWmsSu5K2jshOvsp4egNri0hBjj1CE=
+Created-By: 1.7.0_60 (Oracle Corporation)
+
+Name: packages/xdc/services/intern/gen/java/package.jar
+SHA-256-Digest: 3CX+4EHRIqz60QsR62YvW/mKKVcv5784EYaKn6MassE=
+
+Name: packages/xdc/services/mapping/java/package.jar
+SHA-256-Digest: pw7owHBTgX+TCah4H4GJV26KKdZsvGNJEHhBeXZ1as4=
+
+Name: bin/org/eclipse/rtsc/xdctools/core/CorePlugin.class
+SHA-256-Digest: FQDL1Csf8FxDhgy403WjVOtIDPDPq6aBR+MCkEHeMhQ=
+
+Name: packages/xdc/shelf/java/antlr.jar
+SHA-256-Digest: wc0pJR7gm/U5A8l9cELlB3fFxu7lkStZ588xKg3Fvfs=
+
+Name: config.jar
+SHA-256-Digest: QwdwiUuc98nsJEt4ayIAW4F6AWA6/v4QK4g1A8V0rNA=
+
+Name: packages/xdc/shelf/java/js.jar
+SHA-256-Digest: 6gJ8PJGPTypp7F7PAU1gZuHOKGaNKDeHJ9PyXlNQoh8=
+
+Name: packages/xdc/services/global/java/package.jar
+SHA-256-Digest: DM5gTC7NLlUxsRhZVuNjF/AzZR6uWPBZLaOtJnFJzkg=
+
+Name: packages/xdc/services/spec/views/java/package.jar
+SHA-256-Digest: 7z0VOKEUt62V3bAkvvvcstPugzWG+q3flLMtrdSXTvs=
+
+Name: packages/xdc/services/spec/java/package.jar
+SHA-256-Digest: T7MIi+iKBR0+mOjIESBGXRjuwljnOrH27SjqT0lmnKs=
+
