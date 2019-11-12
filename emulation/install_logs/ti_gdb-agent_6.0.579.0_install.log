@@ -1,0 +1,122 @@
+Log started 11/10/2019 at 00:04:12
+Preferred installation mode : gtk
+Trying to init installer in mode gtk
+Mode gtk successfully initialized
+[00:04:12] 
+[00:04:12] 
+[00:04:12] 
+[00:04:12] 
+Preparing to Install
+Preparing to Install
+Creating directory /.git_repo/toolchain-timsp432/emulation/ccs_base
+Creating directory /.git_repo/toolchain-timsp432/emulation/ccs_base/common
+Creating directory /.git_repo/toolchain-timsp432/emulation/ccs_base/common/bin
+Unpacking files
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/bin/libti_targetdb_parser.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/bin/libusb.tar.gz
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/bin/libusb-1.0.so
+Creating directory /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif
+Creating directory /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/install
+Unpacking files
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/install/71-ti-permissions.rules
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/install/ti_permissions_install.sh
+Creating directory /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xx
+Unpacking files
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xx/app_cpld.bin
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xx/ReadMe.txt
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xx/update_xds2xx.sh
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xx/xds200_cpld_v1008.xsvf
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xx/xds200_firmware_v1008.bin
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xx/xds2xx_conf
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xx/xds2xx_usbconf.so
+Creating directory /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110
+Unpacking files
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110/boot_loader.axf
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110/boot_loader.bin
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110/eZ_FetDcdcController.txt
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110/firmware.bin
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110/ReadMe.txt
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110/xds110reset
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110/xdsdfu
+Directory already exists: /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif
+Unpacking files
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/dbgjtag
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/gdb_agent_console
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libjioxds110.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libjscxds110.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libjtagprobe.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxds560_ecom.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxds560v2_ecom.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxdsboard.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxdsecom3.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxdserror.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxdsfast3.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxdsicicle.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxdslocal.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxdsroute.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxdstrove.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/uscif.out
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xxu_msp432_jtag.dat
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xxu_msp432_swd.dat
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110_msp432_jtag.dat
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds110_msp432_swd.dat
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xdsalias.cfg
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xdserror.cfg
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xdsfamily.cfg
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xdsinitial.cfg
+Creating directory /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation
+Creating directory /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers
+Unpacking files
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers/libcmapi.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers/libprsc.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers/libtargetadapter.so
+Directory already exists: /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers
+Unpacking files
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers/libtixds510cortexm.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers/libtixds510cs_dap.so
+Directory already exists: /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif
+Unpacking files
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/libxds2xx_ecom.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xx.bin
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xxopts.cfg
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/common/uscif/xds2xxu_io.so
+Directory already exists: /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers
+Unpacking files
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers/libtixds560cortexm.so
+Unpacking /.git_repo/toolchain-timsp432/emulation/ccs_base/emulation/drivers/libtixds560cs_dap.so
+[00:04:31] 
+[00:04:31] 
+[00:04:31] 
+[00:04:31] 
+[00:04:31] Preparing for Post Installation Actions...
+Running Post Install Steps
+[00:04:36] Creating Install Script Directory
+[00:04:36] Copying Install Scripts
+[00:04:36] Running XDS100 Driver Installer
+Creating Uninstaller
+Creating uninstaller 25%
+Creating uninstaller 50%
+Creating uninstaller 75%
+Creating uninstaller 100%
+Installation completed
+Executing chmod -R 755 "/.git_repo/toolchain-timsp432/emulation/uninstallers/uninstall_ti_gdb-agent_6.0.579.0.bin"   
+            
+Script exit code: 0
+
+Script output:
+ 
+
+Script stderr:
+ 
+
+Executing chmod -R 755 "/.git_repo/toolchain-timsp432/emulation/uninstallers/uninstall_ti_gdb-agent_6.0.579.0.dat"   
+            
+Script exit code: 0
+
+Script output:
+ 
+
+Script stderr:
+ 
+
+Log finished 11/10/2019 at 00:04:38
