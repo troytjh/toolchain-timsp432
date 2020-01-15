@@ -1,4 +1,3 @@
-
 _BEGIN_STD_C
 
 #if defined(__or1k__) || defined(__or1knd__)
